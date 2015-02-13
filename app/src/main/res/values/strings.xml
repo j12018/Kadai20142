@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">bord</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="title_activity_sub">sub</string>
+    <string name="title_activity_gods">gods</string>
+
+    <string-array name="rank">
+        <item >1位</item>
+        <item >2位</item>
+        <item >3位</item>
+        <item >4位</item>
+        <item >5位</item>
+        <item >6位</item>
+    </string-array>
+
+    <string-array name="dorasure">
+        <item >グラディエーター</item>
+        <item >パラディン</item>
+        <item >ニンジャ</item>
+        <item >ハンター</item>
+        <item>プリンス</item>
+    </string-array>
+
+    <string-array name="dorasure_h">
+        <item >勝ち／生存</item>
+        <item >勝ち／死亡</item>
+        <item >負け</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item >赤色</item>
+        <item >青色</item>
+        <item >黄色</item>
+        <item >緑色</item>
+    </string-array>
+
+    <string-array name="karuma">
+        <item>0～</item>
+        <item >10～</item>
+        <item >20～</item>
+        <item >30～</item>
+        <item >40～</item>
+    </string-array>
+
+</resources>
